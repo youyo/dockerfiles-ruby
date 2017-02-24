@@ -1,4 +1,4 @@
-FROM centos:7
+FROM centos:6
 MAINTAINER youyo
 
 ENV RUBY_VERSION=2.4.0
